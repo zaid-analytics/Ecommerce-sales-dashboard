@@ -33,12 +33,13 @@ Dataset **Kaggle** se liya gaya hai (E-commerce Sales dataset). Do main tables u
 - 🔢 **KPI Cards** — Total Amount, Total Quantity, Total Profit ek glance mein
 - 🎛️ **Interactive Slicers** — State aur Month ke basis par pura dashboard filter kar sakte hain
 
-- Screebsshot / demos
-- show what dashboard look like-
-- Example: [Dashboard Preview](
-
----
 ### 🔗 How to Use
 1. `.pbix` file download karke Power BI Desktop mein open karein
 2. Slicers (State / Month) use karke data filter karein
 3. Visuals par hover/click karke cross-filtering dekhein
+- Screebsshot / demos
+
+- 
+- show what dashboard look like-
+- Example: [Dashboard Preview](https://github.com/zaid-analytics/Ecommerce-sales-dashboard/blob/main/SALES%20DASHBOARD.png)
+
